@@ -2,7 +2,7 @@
 
 **First pytest project to learn basics of unit testing, mocking, and type annotations in Python.**
 
-This repository contains simple Python examples and corresponding tests written using `pytest`. It is intended as a playground for practice and learning.
+This repository contains simple Python examples and corresponding tests using `pytest`. It is intended as a playground for practice and learning.
 
 ---
 
